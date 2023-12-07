@@ -1,10 +1,10 @@
 import React, { Component } from 'react'
 import { Menu } from './Menu'
-import { Button } from './Button'
+// import { Button } from './Button'
 import './NavBar.css'
 
 class Navbar extends Component {
-    state = { clicked: false}
+    state = { clicked: false }
 
     handleClick = () => {
         this.setState({ clicked: !this.state.clicked })

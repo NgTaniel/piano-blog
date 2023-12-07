@@ -30,7 +30,7 @@ export const Menu = [
     cName: 'nav-links'
   },
   {
-    title: 'aww &#128557',
+    title: 'aww 😭',
     url: '/aww',
     cName: 'nav-links'
   },

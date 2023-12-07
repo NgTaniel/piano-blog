@@ -10,6 +10,7 @@
     width: 100%;
     position: fixed;
     z-index: 99;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .navbar-logo{
@@ -26,13 +27,13 @@
 
 .nav-menu{
     display:grid;
-    grid-template-columns: repeat(5, auto);
+    grid-template-columns: repeat(7, auto);
     grid-gap: 10px;
     list-style: none;
     text-align: center;
-    width: 60vw;
-    justify-content: end;
-    margin-right: 2rem;
+    width: 90vw;
+    justify-content: center;
+    margin-right: 5rem;
 }
 
 .nav-links {
@@ -43,7 +44,7 @@
 
 .nav-links:hover{
     background-color: #474852;
-    border-radius: 4px;
+    border-radius: 1px;
     transition: all 0.2 ease-out;
 }
 
