@@ -1,0 +1,15 @@
+.mini-header{
+    text-align: center;
+    padding: 1%;
+    font-size: 3.5vw;
+    background-color: gray;
+}
+
+.mini-header p{
+    text-align: center;
+    font-size: 2vw;
+}
+
+.mini-info li{
+    padding: 0.5vw;
+}
