@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/piano-blog/static/css/main.7026e744.css",
-    "main.js": "/piano-blog/static/js/main.83d5706c.js",
-    "static/media/animepiano.png": "/piano-blog/static/media/animepiano.bf2588bbbc8643b0c4dc.png",
-    "static/media/stdkeyboard.jpg": "/piano-blog/static/media/stdkeyboard.01685caf4c2be67a8c7d.jpg",
-    "static/media/shortkeyboard.jpg": "/piano-blog/static/media/shortkeyboard.f66993034f1494d2128d.jpg",
-    "static/media/cat2.jpg": "/piano-blog/static/media/cat2.2c47c9a713ff3fe36ff8.jpg",
-    "static/media/cat3.jpg": "/piano-blog/static/media/cat3.f9f2995c1df286a2ce2f.jpg",
-    "static/media/108upright.jpg": "/piano-blog/static/media/108upright.6dc759d1a64aeed01841.jpg",
-    "static/media/132upright.jpg": "/piano-blog/static/media/132upright.7f305e676449d8b93b36.jpg",
-    "static/media/grandchart.jpg": "/piano-blog/static/media/grandchart.6a8af3161a410ed9b435.jpg",
-    "static/media/cat1.jpg": "/piano-blog/static/media/cat1.de3dcbe4fc15dfc747d3.jpg",
-    "static/media/cat4.jpg": "/piano-blog/static/media/cat4.f25263b319a1595cc0a7.jpg",
-    "static/media/keyboard-name.jpg": "/piano-blog/static/media/keyboard-name.1bb4bd2cd4e553add4dc.jpg",
-    "index.html": "/piano-blog/index.html",
-    "main.7026e744.css.map": "/piano-blog/static/css/main.7026e744.css.map",
-    "main.83d5706c.js.map": "/piano-blog/static/js/main.83d5706c.js.map"
+    "main.css": "/static/css/main.7026e744.css",
+    "main.js": "/static/js/main.96d9e4a8.js",
+    "static/media/animepiano.png": "/static/media/animepiano.bf2588bbbc8643b0c4dc.png",
+    "static/media/stdkeyboard.jpg": "/static/media/stdkeyboard.01685caf4c2be67a8c7d.jpg",
+    "static/media/shortkeyboard.jpg": "/static/media/shortkeyboard.f66993034f1494d2128d.jpg",
+    "static/media/cat2.jpg": "/static/media/cat2.2c47c9a713ff3fe36ff8.jpg",
+    "static/media/cat3.jpg": "/static/media/cat3.f9f2995c1df286a2ce2f.jpg",
+    "static/media/108upright.jpg": "/static/media/108upright.6dc759d1a64aeed01841.jpg",
+    "static/media/132upright.jpg": "/static/media/132upright.7f305e676449d8b93b36.jpg",
+    "static/media/grandchart.jpg": "/static/media/grandchart.6a8af3161a410ed9b435.jpg",
+    "static/media/cat1.jpg": "/static/media/cat1.de3dcbe4fc15dfc747d3.jpg",
+    "static/media/cat4.jpg": "/static/media/cat4.f25263b319a1595cc0a7.jpg",
+    "static/media/keyboard-name.jpg": "/static/media/keyboard-name.1bb4bd2cd4e553add4dc.jpg",
+    "index.html": "/index.html",
+    "main.7026e744.css.map": "/static/css/main.7026e744.css.map",
+    "main.96d9e4a8.js.map": "/static/js/main.96d9e4a8.js.map"
   },
   "entrypoints": [
     "static/css/main.7026e744.css",
-    "static/js/main.83d5706c.js"
+    "static/js/main.96d9e4a8.js"
   ]
 }
