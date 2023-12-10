@@ -1,0 +1,15 @@
+.grand-header{
+    text-align: center;
+    padding: 1%;
+    font-size: 3.5vw;
+    background-color: gray;
+}
+
+.grand-header p{
+    text-align: center;
+    font-size: 2vw;
+}
+
+.grand-info li{
+    padding: 0.5vw
+}

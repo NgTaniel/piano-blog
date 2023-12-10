@@ -25,11 +25,6 @@ export const Menu = [
     cName: 'nav-links'
   },
   {
-    title: 'Extended Grand',
-    url: '/extended-grand',
-    cName: 'nav-links'
-  },
-  {
     title: 'aww 😭',
     url: '/aww',
     cName: 'nav-links'
